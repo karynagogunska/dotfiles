@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = karina.gogunskaya@gmail.com
+	name = karynagogunska
